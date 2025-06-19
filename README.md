@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎬 ScreenScape API</h1>
+  <h1>🎬 Movies API</h1>
   <p><strong>Free Movies, TV Series & Anime API Platform</strong></p>
   
   [![Website](https://img.shields.io/badge/Website-totu.me-blue?style=for-the-badge&logo=web&logoColor=white)](https://totu.me)
