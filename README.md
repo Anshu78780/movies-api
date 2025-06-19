@@ -286,50 +286,12 @@ All endpoints return standardized JSON responses:
 
 [View Full Changelog](CHANGELOG.md)
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-### Development Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/screenscape-api.git
-   cd screenscape-api
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables**
-   ```bash
-   cp .env.example .env.local
-   # Edit .env.local with your configuration
-   ```
-
-4. **Run the development server**
-   ```bash
-   npm run dev
-   ```
-
-5. **Open [http://localhost:3000](http://localhost:3000)**
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ⚠️ Disclaimer
-
-This API is for educational purposes only. Users are responsible for complying with applicable laws and terms of service of content providers.
-
 ## 🙋‍♂️ Support
 
 - 📧 **Email**: support@totu.me
-- 💬 **Discord**: [Join our community](https://discord.gg/screenscape)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/screenscape-api/issues)
-- 📖 **Docs**: [totu.me/docs](https://totu.me/docs)
+- 💬 **Telegram**: [Join our community](https://t.me/ScreenScapee)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Anshu78780/movies-api)
+- 📖 **Docs**: [totu.me/docs](https://totu.me/dashboard/docs)
 
 ## 🌟 Show Your Support
 
