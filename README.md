@@ -9,7 +9,7 @@
 
   <br/>
   
-  <img src="[https://nisanshu.social/logo.jpg](https://nisanshu.social/logo.jpg)" alt="ScreenScape Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
+  <img src="https://nisanshu.social/logo.jpg" alt="ScreenScape Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
   
   <p><em>Access thousands of movies, TV shows, and anime with our comprehensive API platform</em></p>
   
